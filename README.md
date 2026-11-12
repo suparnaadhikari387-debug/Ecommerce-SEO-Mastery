@@ -30,3 +30,19 @@ The main objective is to understand and implement ecommerce SEO techniques, anal
 
 ## Author
 Github Marketing Internship Project
+
+## 📸 Project Screenshots
+
+The following screenshots showcase the different features and functionalities of the Ecommerce SEO Mastery dashboard. They demonstrate how users can analyze website SEO performance, optimize ecommerce product listings, generate keyword ideas, and view SEO recommendations through an interactive and user-friendly interface.
+
+### 1. Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 2. Website SEO Audit
+![Website SEO Audit](screenshots/Website.png)
+
+### 3. Product SEO Analyzer
+![Product SEO Analyzer](screenshots/product.png)
+
+### 4. Keyword Research
+![Keyword Research](screenshots/keyword.png)
