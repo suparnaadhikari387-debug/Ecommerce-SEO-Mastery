@@ -39,7 +39,7 @@ The following screenshots showcase the different features and functionalities of
 ![Dashboard](screenshots/dashboard.png)
 
 ### 2. Website SEO Audit
-![Website SEO Audit](screenshots/Website.png)
+![Website SEO Audit](screenshots/website.png)
 
 ### 3. Product SEO Analyzer
 ![Product SEO Analyzer](screenshots/product.png)
